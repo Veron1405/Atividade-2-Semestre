@@ -1,0 +1,201 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+.header {
+    position: relative;
+    width: 1440px;
+    height: 91px;
+    background-color: #008374;
+}
+.crystal {
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    color: #ffffff;
+    font: 400 30px 'inter', sans-serif;
+    
+}
+.inicio {
+    position: absolute;
+    top: 35px;
+    left: 800px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+    
+}
+.planos {
+    position: absolute;
+    top: 35px;
+    left: 1000px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.contatos {
+    position: absolute;
+    top: 35px;
+    left: 1200px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+    right: 200px;
+}
+.box1 {
+    position: absolute;
+    top: 90px;
+    background-color: #23A092;
+    width: 1440px;
+    height: 620px;
+}
+.box2 {
+    position: relative;
+    width: 1440px;
+    height: 200px;
+    background-color: #008374;
+    top: 618px;
+}
+.box3 {
+    position: absolute;
+    width: 420px;
+    height: 50px;
+    top: 800px;
+    left: 777px;
+    background-color: #bebebe;
+    border-radius: 8px;
+}
+.box4 {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    top: 800px;
+    left: 1200px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.box5 {
+    position: absolute;
+    width: 700px;
+    height: 35px;
+    top: 310px;
+    left: 320px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.box6 {
+    position: absolute;
+    width: 700px;
+    height: 35px;
+    top: 400px;
+    left: 320px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.box7 {
+    position: absolute;
+    width: 700px;
+    height: 35px;
+    top: 490px;
+    left: 320px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.box8 {
+    position: absolute;
+    width: 350px;
+    height: 35px;
+    top: 580px;
+    left: 320px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.inicio2 {
+    position: absolute;
+    top: 745px;
+    left: 280px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.planos2 {
+    position: absolute;
+    top: 790px;
+    left: 280px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.contatos2 {
+    position: absolute;
+    top: 835px;
+    left: 280px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.enviar {
+    position: absolute;
+    top: 810px;
+    left: 1230px;
+    color: #000000;
+    font: 400 25px 'inter', sans-serif;
+}
+.inscreva {
+    position: absolute;
+    top: 740px;
+    left: 778px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.contato {
+    position: absolute;
+    top: 130px;
+    left: 200px;
+    color: #ffffff;
+    font: 400 30px 'inter', sans-serif;
+}
+.preencha {
+    position: absolute;
+    top: 170px;
+    left: 200px;
+    color: #ffffff;
+    font: 400 25px 'inter', sans-serif;
+}
+.enviar2 {
+    position: absolute;
+    top: 583px;
+    left: 462px;
+    color: #000000;
+    font: 400 25px 'inter', sans-serif;
+}
+.nome {
+    position: absolute;
+    color: #ffffff;
+    font: 400 30px 'inter', sans-serif;
+    top: 270px;
+    left: 320px;
+}
+.email {
+    position: absolute;
+    color: #ffffff;
+    font: 400 30px 'inter', sans-serif;
+    left: 320px;
+    top: 360px;
+}
+.telefone {
+    position: absolute;
+    color: #ffffff;
+    font: 400 30px 'inter', sans-serif;
+    left: 320px;
+    top: 450px;
+}
